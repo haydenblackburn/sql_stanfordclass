@@ -1,5 +1,5 @@
 # Stanford DB5 SQL Class
-This is a repository of my solutions for the different assignments and quizzes to complete the well known database class offered
+This is a repository of my solutions for the assignments and quizzes to complete the well known database class offered
 online for free from Stanford. Click [here][1] to try the class out yourself. 
 
 After completing the assignments I compared my code with others on Github and found that a lot of other people use self joins
